@@ -4,7 +4,7 @@ Hi, I'm Lucas 🤓.
 - Living in São Paulo, Brazil 🇧🇷.
 ! 15 years old
 + Programming and gaming are my loves.
-# 📖 Learning HTML, CSS and JV.
+# 📖 Learning HTML, CSS and JS.
 ```
 ##
 <div style="display: inline_block"><br>
