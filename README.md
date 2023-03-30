@@ -2,8 +2,7 @@
 Hi, I'm Lucas 🤓.
 
 - Living in São Paulo, Brazil 🇧🇷.
-! 15 years old
-+ Programming and gaming are my loves.
+! 16 years old
 # 📖 Learning HTML, CSS and JS.
 ```
 ##
